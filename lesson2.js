@@ -36,7 +36,7 @@ for (i = 0; i < array2.length; i++) {
 
 //point 10
 for (i = 0; i < array2.length; i++) {
-  if (array2[i] % 2 == 0) {
-    console.log(array2[i]);
+    if (array2[i] % 2 == 0) {
+      console.log(array2[i]);
+    }
   }
-}
